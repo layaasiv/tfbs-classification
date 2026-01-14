@@ -1,4 +1,4 @@
-# tfbs-classification
+# Transcription Factor Binding Site Classification
 
 ## Overview
 In this project, I explored the transcription factor binding site (TFBS) classification task using SVM (linear kernel) and LS-GKM models. I optimized workflows to two transcription factors: SP1 and CTCF. These TFs exhibit different binding activities, which is reflected in the different preprocessing steps their respective models required to discriminate between BS/background sequence, and the motif recoverability of those models. 
